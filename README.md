@@ -1,8 +1,7 @@
 # Machine-Learning-project
 Wine Quality Prediction Analysis | Machine Learning | Python
 # Wine Quality Prediction Using Machine Learning
-
-![Wine Bottles](wine_bottles_image.jpg)
+ ![image](https://github.com/Ganeshkarwa/Machine-Learning-project/assets/140792447/3ea3b597-332c-416c-9fed-9bc01cf1c81c)
 
 ## Introduction
 
